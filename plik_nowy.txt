@@ -1,0 +1,25 @@
+  <h2 class="sr-only">Navigation Menu</h2>
+      <h1 id="search-suggestions-dialog-header" class="sr-only">Search code, repositories, users, issues, pull requests...</h1>
+      <h1 class="Overlay-title " id="feedback-dialog-title">
+      <h1 class="Overlay-title " id="custom-scopes-dialog-title">
+        <h2 id="custom-scopes-dialog-description" class="Overlay-description">Use saved searches to filter your results more quickly</h2>
+        <h1 class="h0-mktg mb-3 position-relative z-2">
+      <h2 class="h5-mktg mb-4 text-medium">Productivity</h2>
+      <h3 class="h3-mktg mb-4 text-medium">
+        <h2 class="color-fg-default mb-3 f2-mktg color-fg-muted"><em>GitHub Copilot</em> empowers developers to complete tasks 55% faster with contextualized AI coding assistance across workflows.</h2>
+          <h3 class="text-accent-primary mb-2 mt-3 h1-mktg text-medium">22% increase</h3>
+      <h3 class="h5-mktg mb-4 text-medium js-build-in-item build-in-slideX-left">Application security</h3>
+      <h2 class="h3-mktg mb-4 text-medium js-build-in-item build-in-slideX-left">
+        <h2 class="color-fg-default mb-3 f2-mktg color-fg-muted"><em>GitHub Advanced Security</em> enables you to find and fix vulnerabilities with ease and ship secure code quickly.</h2>
+          <h3 class="text-accent-primary mb-2 mt-3 h1-mktg text-medium">7x faster</h3>
+      <h3 class="h5-mktg mb-4 text-medium js-build-in-item build-in-slideX-left">Collaboration</h3>
+      <h2 class="h3-mktg mb-4 text-medium js-build-in-item build-in-slideX-left">
+        <h2 class="color-fg-default mb-3 f2-mktg color-fg-muted"><em>GitHub Issues and GitHub Projects</em> supply project management tools that adapt to your team alongside your code.</h2>
+          <h3 class="text-accent-primary mb-2 mt-3 h1-mktg text-medium">80%</h3>
+          <h2 class="h2-mktg mb-5">Over 100 million developers call GitHub home<sup class="f3-mktg" style="vertical-align: super">3</sup></h2>
+  <h2 class="sr-only">Site-wide Links</h2>
+        <h3 class="h5 mt-4 mb-0" id="subscribe-to-newsletter">Subscribe to our developer newsletter</h3>
+        <h3 class="h5 mb-3 text-mono color-fg-muted text-normal">
+        <h3 class="h5 mb-3 text-mono color-fg-muted text-normal">
+        <h3 class="h5 mb-3 text-mono color-fg-muted text-normal">
+        <h3 class="h5 mb-3 text-mono color-fg-muted text-normal">
